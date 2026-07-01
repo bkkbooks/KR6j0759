@@ -1,0 +1,278 @@
+canonical_identifier: bkk:krp/KR6j0759/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0759/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 准提三昧行法
+  identifiers:
+    krp: KR6j0759
+    cbeta: X74n1481
+    cbeta_old_id: X74n1481
+    authorityid: CA0005505
+    json_key: X1481
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1481.xml
+    old_id: X74n1481
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0759_000-X.yaml, hash: 'sha256:55ba418ebc3db194d5fa2e04ee4150cb72f8c34743246067d52fa20d964a2230'}
+  - {seq: 1, filename: KR6j0759_001-X.yaml, hash: 'sha256:bb337e340e9809e70ad9dc7ddceba6b6b8245779a7664c718eb51f1846491b66'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0759_000-X.markers.yaml, hash: 'sha256:1cc4fe876ae4c88fcff2e7046596bdf61d3985481630f2155fe39aa6282f2242'}
+  - {seq: 1, role: markers, filename: assets/KR6j0759_001-X.markers.yaml, hash: 'sha256:1acf19d29e37dea60ca09fab094d583b19bb8278f60164c2fa412bfa64f6a912'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0759_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1481-A 天溪准提三昧行法序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0759_X_000-mulu-2
+    span:
+    - front
+    - 658
+    - 658
+  label: No. 1481-B 準提三昧行法序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0759_X_000-mulu-3
+    span:
+    - front
+    - 1083
+    - 1083
+  label: 准提三昧行法目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 10316
+  label: 准提三昧行法
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 述勸修第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-2
+    span:
+    - body
+    - 408
+    - 408
+  label: 明受戒發心第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-3
+    span:
+    - body
+    - 711
+    - 711
+  label: 定行人及日期時數第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-4
+    span:
+    - body
+    - 1073
+    - 1073
+  label: 出正修法第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-5
+    span:
+    - body
+    - 1696
+    - 1696
+  label: 一嚴治道場
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-6
+    span:
+    - body
+    - 2174
+    - 2174
+  label: 二清淨三業
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-7
+    span:
+    - body
+    - 2377
+    - 2377
+  label: 三三業供養
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-8
+    span:
+    - body
+    - 2766
+    - 2766
+  label: 四請三寶諸天
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-9
+    span:
+    - body
+    - 4191
+    - 4191
+  label: 五讚歎申誠
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-10
+    span:
+    - body
+    - 4501
+    - 4501
+  label: 六作禮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-11
+    span:
+    - body
+    - 5059
+    - 5059
+  label: 七持呪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-12
+    span:
+    - body
+    - 6137
+    - 6137
+  label: 八修行五悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-13
+    span:
+    - body
+    - 6142
+    - 6142
+  label: 初懺悔法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-14
+    span:
+    - body
+    - 7091
+    - 7091
+  label: 次勸請法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-15
+    span:
+    - body
+    - 7154
+    - 7154
+  label: 次隨喜法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-16
+    span:
+    - body
+    - 7213
+    - 7213
+  label: 次回向法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-17
+    span:
+    - body
+    - 7272
+    - 7272
+  label: 次發願法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-18
+    span:
+    - body
+    - 7331
+    - 7331
+  label: 九行道旋繞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-19
+    span:
+    - body
+    - 7530
+    - 7530
+  label: 十入三摩地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-20
+    span:
+    - body
+    - 8907
+    - 8907
+  label: 分持明驗相第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0759_X_001-mulu-21
+    span:
+    - body
+    - 9778
+    - 9778
+  label: 附本呪同譯
+  type: mulu
+  level: 1
+hash: sha256:0a428ebe7ed284de3e4226cd161111cdca43c8f15c1353a2bb2222491f8cf337
