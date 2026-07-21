@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0759_000-X.yaml, hash: 'sha256:55ba418ebc3db194d5fa2e04ee4150cb72f8c34743246067d52fa20d964a2230'}
+  - {seq: 0, filename: KR6j0759_000-X.yaml, hash: 'sha256:7890dca3eef0cb284a16c6c5d9f10acd78fca7d3a7d082dee1646ae1bd6343a9'}
   - {seq: 1, filename: KR6j0759_001-X.yaml, hash: 'sha256:bb337e340e9809e70ad9dc7ddceba6b6b8245779a7664c718eb51f1846491b66'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0759_000-X.markers.yaml, hash: 'sha256:1cc4fe876ae4c88fcff2e7046596bdf61d3985481630f2155fe39aa6282f2242'}
+  - {seq: 0, role: markers, filename: assets/KR6j0759_000-X.markers.yaml, hash: 'sha256:4c6118911548dd4a823c34f70b035b0d7be3c973be724b326ce0b71f2739df7e'}
   - {seq: 1, role: markers, filename: assets/KR6j0759_001-X.markers.yaml, hash: 'sha256:1acf19d29e37dea60ca09fab094d583b19bb8278f60164c2fa412bfa64f6a912'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6j0759_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1481-A 天溪准提三昧行法序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0759_X_000-mulu-2
     span:
-    - front
+    - body
     - 658
     - 658
   label: No. 1481-B 準提三昧行法序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0759_X_000-mulu-3
     span:
-    - front
+    - body
     - 1083
     - 1083
   label: 准提三昧行法目次
@@ -275,4 +275,4 @@ table_of_contents:
   label: 附本呪同譯
   type: mulu
   level: 1
-hash: sha256:0a428ebe7ed284de3e4226cd161111cdca43c8f15c1353a2bb2222491f8cf337
+hash: sha256:cd4bd54a5e9222a3d5b8e4d55ddf92abc15e19c438074dfbb079a25da44658d7
